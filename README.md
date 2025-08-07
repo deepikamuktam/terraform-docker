@@ -23,11 +23,10 @@ steps:
 
    <img width="1437" height="394" alt="Screenshot 2025-08-07 113825" src="https://github.com/user-attachments/assets/19dc0225-d35c-4744-8e9c-653f1ae229aa" />
 
-   <img width="1425" height="379" alt="Screenshot 2025-08-07 114254" src="https://github.com/user-attachments/assets/b27500dd-a038-4cb9-8881-cf92be92f92e"
+   <img width="1425" height="379" alt="Screenshot 2025-08-07 114254" src="https://github.com/user-attachments/assets/638956aa-9636-465f-ae91-0065feb1b755" />
 
    <img width="1865" height="688" alt="Screenshot 2025-08-07 114349" src="https://github.com/user-attachments/assets/8fd3a4ce-bff1-4ad5-9f65-7af43254cdd2" />
 
-   <img width="1434" height="362" alt="Screenshot 2025-08-07 115736" src="https://github.com/user-attachments/assets/7467977a-ced8-4fd6-8c84-44f13e949b73" />
 
 
 
